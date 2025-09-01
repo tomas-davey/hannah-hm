@@ -1,217 +1,49 @@
 {
-  "2025-09-02": { "type": "rest", "title": "Rest Day", "description": "Complete rest or gentle walk" },
-  "2025-09-03": { 
-    "type": "speed", 
-    "title": "Speed Play", 
-    "distance": "6.5km",
-    "description": "2km easy warm-up (6:15-6:30/km) + 6 × 100m strides + 2km easy cool-down",
-    "details": "Gentle pick-ups to feel fast again. Build from easy pace to about 5:00/km over 100m. Walk back for full recovery."
-  },
-  "2025-09-04": { 
-    "type": "optional", 
-    "title": "Optional Easy Run", 
-    "distance": "4km",
-    "description": "4km easy at 6:15-6:30/km",
-    "details": "Only if feeling good. Keep it conversational."
-  },
-  "2025-09-05": { 
-    "type": "tempo", 
-    "title": "First Tempo Run", 
-    "distance": "8km",
-    "description": "2km warm-up + 3 × 1km tempo (5:20-5:30/km) + 2km cool-down",
-    "details": "Build confidence at faster paces. 2-minute jog recovery between intervals."
-  },
-  "2025-09-06": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-07": { 
-    "type": "recovery", 
-    "title": "Recovery Run", 
-    "distance": "5km",
-    "description": "5km at 6:00-6:30/km",
-    "details": "Keep it chatty and relaxed - active recovery only."
-  },
-  "2025-09-08": { 
-    "type": "long", 
-    "title": "Long Run Rebuild", 
-    "distance": "16km",
-    "description": "16km at easy pace (6:00-6:30/km)",
-    "details": "Focus on time on feet, not speed. Practice drinking during the run."
-  },
-  "2025-09-09": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-10": { 
-    "type": "speed", 
-    "title": "Track Session", 
-    "distance": "8km",
-    "description": "2km warm-up + 6 × 400m (5:00-5:10/km) + 2km cool-down",
-    "details": "Remind your legs what speed feels like. 90 seconds walking/jogging recovery."
-  },
-  "2025-09-11": { 
-    "type": "optional", 
-    "title": "Optional Easy Run", 
-    "distance": "5km",
-    "description": "5km easy pace",
-    "details": "Optional recovery run if feeling good."
-  },
-  "2025-09-12": { 
-    "type": "tempo", 
-    "title": "Marathon Pace Run", 
-    "distance": "9km",
-    "description": "2km warm-up + 5km marathon pace (5:45-6:00/km) + 2km cool-down",
-    "details": "Should feel 'comfortably firm' - sustainable for ages."
-  },
-  "2025-09-13": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-14": { 
-    "type": "recovery", 
-    "title": "Easy Recovery", 
-    "distance": "6km",
-    "description": "6km easy pace - keep those legs loose!",
-    "details": "Active recovery run."
-  },
-  "2025-09-15": { 
-    "type": "long", 
-    "title": "Long Run with Finish", 
-    "distance": "16km",
-    "description": "13km easy + 3km at half marathon pace (5:35-5:41/km)",
-    "details": "Practice what race pace feels like when a bit tired."
-  },
-  "2025-09-16": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-17": { 
-    "type": "speed", 
-    "title": "Longer Intervals", 
-    "distance": "8km",
-    "description": "2km warm-up + 5 × 800m (4:55-5:10/km) + 2km cool-down",
-    "details": "Your hardest session - you've got this! 2 minutes recovery between each."
-  },
-  "2025-09-18": { 
-    "type": "optional", 
-    "title": "Optional Easy Run", 
-    "distance": "6km",
-    "description": "6km easy pace",
-    "details": "Optional recovery run."
-  },
-  "2025-09-19": { 
-    "type": "tempo", 
-    "title": "Extended Tempo", 
-    "distance": "11km",
-    "description": "2km warm-up + 7km tempo (5:15-5:30/km) + 2km cool-down",
-    "details": "Build that lactate threshold - one continuous effort."
-  },
-  "2025-09-20": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-21": { 
-    "type": "recovery", 
-    "title": "Recovery Spin", 
-    "distance": "6km",
-    "description": "6km super easy - gentle leg loosener",
-    "details": "Think of this as a gentle leg loosener."
-  },
-  "2025-09-22": { 
-    "type": "long", 
-    "title": "Long Run Race Simulation", 
-    "distance": "18km",
-    "description": "4km easy + 10km at half marathon pace + 4km easy",
-    "details": "Big confidence builder - you're running more than half the race distance at goal pace!"
-  },
-  "2025-09-23": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-24": { 
-    "type": "speed", 
-    "title": "Race Pace Repeats", 
-    "distance": "8km",
-    "description": "2km warm-up + 4 × 1000m HMP (5:35-5:41/km) + 2km cool-down",
-    "details": "Make race pace feel natural and relaxed. 90 seconds easy jog recovery."
-  },
-  "2025-09-25": { 
-    "type": "optional", 
-    "title": "Optional Easy Run", 
-    "distance": "5km",
-    "description": "5km easy pace",
-    "details": "Optional recovery run."
-  },
-  "2025-09-26": { 
-    "type": "tempo", 
-    "title": "Tempo Blocks", 
-    "distance": "9km",
-    "description": "1.5km warm-up + 3 × 2km tempo + 1.5km cool-down",
-    "details": "Building strength at comfortably hard effort. 3 minutes easy between."
-  },
-  "2025-09-27": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-09-28": { 
-    "type": "recovery", 
-    "title": "Short and Sweet", 
-    "distance": "5km",
-    "description": "5km easy pace",
-    "details": "Keep it short and relaxed."
-  },
-  "2025-09-29": { 
-    "type": "long", 
-    "title": "Final Long Pace Practice", 
-    "distance": "16km",
-    "description": "6km easy + 6km HMP + 4km easy",
-    "details": "Last big race pace practice - make it count!"
-  },
-  "2025-09-30": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-10-01": { 
-    "type": "speed", 
-    "title": "Speed Maintenance", 
-    "distance": "6km",
-    "description": "2km warm-up + 6 × 200m interval pace + 2km cool-down",
-    "details": "Keep legs sharp but don't tire them out. Full recovery between."
-  },
-  "2025-10-02": { 
-    "type": "optional", 
-    "title": "Optional Easy Run", 
-    "distance": "4km",
-    "description": "4km easy pace (or skip if tired)",
-    "details": "Optional - skip entirely if feeling tired."
-  },
-  "2025-10-03": { 
-    "type": "tempo", 
-    "title": "Final Race Pace Hit", 
-    "distance": "8km",
-    "description": "2.5km warm-up + 3km HMP + 2.5km cool-down",
-    "details": "Your last race pace session - trust your fitness!"
-  },
-  "2025-10-04": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-10-05": { 
-    "type": "recovery", 
-    "title": "Gentle Mover", 
-    "distance": "4km",
-    "description": "4km easy pace",
-    "details": "Keep it gentle and relaxed."
-  },
-  "2025-10-06": { 
-    "type": "long", 
-    "title": "Reduced Long Run", 
-    "distance": "12km",
-    "description": "12km at easy pace",
-    "details": "Maintain routine but reduce load. You should feel fresh and ready."
-  },
-  "2025-10-07": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-10-08": { 
-    "type": "speed", 
-    "title": "Leg Sharpener", 
-    "distance": "5km",
-    "description": "3km easy + 4 × 100m strides",
-    "details": "Keep legs active but fresh. Practice race morning warm-up routine."
-  },
-  "2025-10-09": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
-  "2025-10-10": { 
-    "type": "recovery", 
-    "title": "Final Easy Run", 
-    "distance": "4km",
-    "description": "4km super relaxed easy pace",
-    "details": "Just keep the legs moving."
-  },
-  "2025-10-11": { 
-    "type": "speed", 
-    "title": "Race Preparation", 
-    "distance": "3km",
-    "description": "2km easy + 3 × 100m strides",
-    "details": "Practice your pre-race routine timing."
-  },
-  "2025-10-12": { 
-    "type": "race", 
-    "title": "🏁 RACE DAY!", 
-    "distance": "21.1km",
-    "description": "Half Marathon - Sub-2 Hour Goal!",
-    "details": "Target pace: 5:41/km average. Start at 5:45-5:50/km for first 4km, settle into 5:38-5:42/km, finish strong!"
-  }
+  "2025-09-01": { "type": "recovery", "title": "Easy Recovery Run", "distance": "6km", "description": "6km easy at 6:20-6:35/km", "details": "Very easy conversational pace. Focus on relaxed form." },
+  "2025-09-02": { "type": "speed", "title": "Speed Introduction", "distance": "7km", "description": "2km easy warm-up + 6 × 100m strides + 3km easy cool-down", "details": "Gentle speed introduction. Strides at 4:45-5:00/km with full recovery walks. Focus on form and feeling fast." },
+  "2025-09-03": { "type": "optional", "title": "Optional Easy Run", "distance": "4-5km", "description": "Easy pace at 6:15-6:30/km", "details": "Only if feeling fresh. Conversational effort throughout." },
+  "2025-09-04": { "type": "tempo", "title": "Tempo Introduction", "distance": "8km", "description": "2km easy warm-up + 4km tempo (5:45-5:55/km) + 2km easy cool-down", "details": "Comfortably hard effort. Should feel controlled and sustainable." },
+  "2025-09-05": { "type": "rest", "title": "Rest Day", "description": "Complete rest or light stretching" },
+  "2025-09-06": { "type": "recovery", "title": "Easy Recovery Run", "distance": "6km", "description": "6km easy at 6:20-6:35/km", "details": "Very easy conversational pace. Focus on relaxed form." },
+  "2025-09-07": { "type": "long", "title": "Long Run Build", "distance": "12km", "description": "12km at easy pace (6:15-6:30/km)", "details": "Steady aerobic effort. Practice race-day fueling and hydration." },
+  "2025-09-08": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-09-09": { "type": "speed", "title": "VO2 Max Intervals", "distance": "8.5km", "description": "2km easy warm-up + 5 × 800m (5:15/km) with 400m easy recovery + 2km cool-down", "details": "Hard but controlled intervals. Recovery jogs should be truly easy." },
+  "2025-09-10": { "type": "optional", "title": "Optional Recovery Run", "distance": "5km", "description": "Easy recovery run at 6:20-6:35/km", "details": "Very easy if legs are tired. Skip if any soreness." },
+  "2025-09-11": { "type": "tempo", "title": "Extended Tempo", "distance": "10km", "description": "2km easy warm-up + 6km tempo (5:45-5:55/km) + 2km cool-down", "details": "Sustained comfortably hard effort. Key workout for race preparation." },
+  "2025-09-12": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-09-13": { "type": "recovery", "title": "Easy Recovery Run", "distance": "5km", "description": "5km easy at 6:20-6:35/km", "details": "Gentle recovery before big weekend." },
+
+  "2025-09-16": { "type": "speed", "title": "Race Pace Intervals", "distance": "9km", "description": "2km easy warm-up + 4 × 1200m (5:35/km) with 600m easy recovery + 2km cool-down", "details": "Slightly faster than race pace. Focus on rhythm and breathing." },
+  "2025-09-17": { "type": "optional", "title": "Optional Shakeout", "distance": "4km", "description": "Easy shakeout run at 6:20-6:35/km", "details": "Very gentle if needed. Include 4 × 50m strides if feeling good." },
+  "2025-09-18": { "type": "tempo", "title": "Threshold Run", "distance": "9km", "description": "2km easy warm-up + 5km threshold (5:30-5:40/km) + 2km cool-down", "details": "Comfortably hard - the pace you could sustain for 15-20km." },
+  "2025-09-19": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-09-20": { "type": "recovery", "title": "Easy Recovery", "distance": "5km", "description": "5km very easy at 6:25-6:40/km", "details": "Gentle preparation for race simulation." },
+
+  "2025-09-22": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-09-23": { "type": "speed", "title": "Short Speed", "distance": "7km", "description": "2km easy warm-up + 6 × 300m (5:05/km) with 300m easy jog recovery + 2km cool-down", "details": "Sharp but not all-out. Focus on leg turnover and efficiency." },
+  "2025-09-24": { "type": "optional", "title": "Optional Easy Run", "distance": "5km", "description": "Easy conversational pace at 6:15-6:30/km", "details": "Only if feeling good. Keep it truly easy." },
+  "2025-09-25": { "type": "tempo", "title": "Tempo Segments", "distance": "10km", "description": "2km easy + 3 × 2km tempo (5:45-5:55/km) with 1km easy between + 1km cool-down", "details": "Broken tempo session. Each segment should feel strong and controlled." },
+  "2025-09-26": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+   "2025-09-28": { "type": "long", "title": "Race Simulation", "distance": "18km", "description": "3km easy + 12km at race pace (5:40/km) + 3km easy cool-down", "details": "Key confidence builder. 12km block should feel controlled and strong." },
+  "2025-09-29": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-10-02": { "type": "rest", "title": "Taper Begins", "description": "Complete rest - begin 10-day taper period" },
+  "2025-10-03": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-10-04": { "type": "recovery", "title": "Easy Taper Run", "distance": "6km", "description": "6km easy at 6:10-6:25/km with 4 × 100m strides", "details": "Easy effort with short pickups to stay sharp." },
+  "2025-10-05": { "type": "long", "title": "Taper Long Run", "distance": "10km", "description": "10km easy with 3 × 1km at race pace (5:40/km)", "details": "Easy overall effort with race pace segments for confidence." },
+  "2025-10-06": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-10-07": { "type": "tempo", "title": "Short Tempo", "distance": "6km", "description": "2km easy warm-up + 2km tempo (5:45/km) + 2km cool-down", "details": "Short tempo to maintain feel for faster running without fatigue." },
+  "2025-10-09": { "type": "recovery", "title": "Keep legs moving", "distance": "5km", "description": "Very easy 5km at 6:30-6:45/km", "details": "Very gentle if needed. Add in like 4-6x200m at race pace." },
+  "2025-10-08": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-10-10": { "type": "rest", "title": "Rest Day", "description": "Complete rest day" },
+  "2025-10-11": { "type": "recovery", "title": "Pre-Race Shakeout", "distance": "3km", "description": "3km easy (6:20/km) + 4 × 50m strides", "details": "Keep legs moving but fresh. Strides should feel effortless." },
+  "2025-10-12": { "type": "race", "title": "RACE DAY - Half Marathon", "distance": "21.1km", "description": "Target: Sub-2:00 (5:40/km average)", "details": "Start at 5:45/km for first 5km, settle into 5:35-5:40/km, final 2km push if strong." },
+"2025-09-14": { "type": "long", "title": "Peak Long Run", "distance": "14km", "description": "14km progression: 8km easy (6:15-6:30/km) + 6km at race pace (5:40/km)", "details": "Most important workout. Final 6km should feel controlled at race pace." },
+
+"2025-09-21": { "type": "long", "title": "Long Run", "distance": "16km", "description": "5km easy + 8km steady (5:50-6:00/km) + 3km easy cool-down", "details": "Steady aerobic effort. Slightly easier than race pace." },
+
+"2025-09-27": { "type": "recovery", "title": "Easy Recovery", "distance": "5km", "description": "5km easy at 6:20-6:35/km", "details": "Relaxed running before next long run." },
+
+"2025-09-30": { "type": "optional", "title": "Optional Shakeout", "distance": "3km", "description": "Very easy 3km at 6:30-6:45/km", "details": "Gentle shakeout to keep legs moving." },
+
+"2025-10-01": { "type": "speed", "title": "Final Hard Session", "distance": "8km", "description": "2km easy warm-up + 4 × 1km (5:30/km) with 90sec recovery + 2km cool-down", "details": "Last hard workout. Should feel controlled and confident." }
 }
