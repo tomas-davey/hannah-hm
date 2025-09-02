@@ -91,6 +91,11 @@
     "description": "14km progression: 8km easy (6:15-6:35/km) + 6km at race pace (5:35-5:40/km)",
     "details": "Most important workout. Final 6km should feel controlled at race pace."
   },
+  "2025-09-15": {
+    "type": "rest",
+    "title": "Rest Day",
+    "description": "Complete rest day"
+  },
   "2025-09-16": {
     "type": "speed",
     "title": "Race Pace Intervals",
@@ -164,10 +169,10 @@
   },
   "2025-09-27": {
     "type": "recovery",
-    "title": "Easy Recovery",
-    "distance": "5km",
-    "description": "5km easy at 6:15-6:35/km",
-    "details": "Relaxed running before next long run."
+    "title": "Pre-Race Simulation Shakeout",
+    "distance": "3km",
+    "description": "3km easy (6:15-6:35/km) + 4 × 50m CONTROLLED strides",
+    "details": "Keep legs moving but fresh. Strides should feel effortless.  This is to get a feel for how it will feel before the race."
   },
   "2025-09-28": {
     "type": "long",
@@ -192,7 +197,7 @@
     "type": "speed",
     "title": "Final Hard Session",
     "distance": "8km",
-    "description": "2km easy warm-up + 4 × 1km (5:15-5:30/km) with 90sec recovery + 2km cool-down",
+    "description": "2km easy warm-up + 4 × 1km (4:50/km) with 90sec recovery + 2km cool-down",
     "details": "Last hard workout. Should feel controlled and confident."
   },
   "2025-10-02": {
@@ -200,17 +205,18 @@
     "title": "Taper Begins",
     "description": "Complete rest - begin 10-day taper period"
   },
+
   "2025-10-03": {
-    "type": "rest",
-    "title": "Rest Day",
-    "description": "Complete rest day"
-  },
-  "2025-10-04": {
     "type": "recovery",
     "title": "Easy Taper Run",
     "distance": "6km",
     "description": "6km easy at 6:15-6:35/km with 4 × 100m strides",
     "details": "Easy effort with short pickups to stay sharp."
+  },
+  "2025-10-04": {
+    "type": "rest",
+    "title": "Rest Day",
+    "description": "Complete rest day"
   },
   "2025-10-05": {
     "type": "long",
