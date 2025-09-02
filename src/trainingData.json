@@ -42,7 +42,7 @@
   "2025-09-07": {
     "type": "long",
     "title": "Long Run Build",
-    "distance": "12km",
+    "distance": "14km",
     "description": "12km at easy pace (6:15-6:35/km)",
     "details": "Steady aerobic effort. Practice race-day fueling and hydration."
   },
@@ -86,9 +86,9 @@
   },
   "2025-09-14": {
     "type": "long",
-    "title": "Peak Long Run",
-    "distance": "14km",
-    "description": "14km progression: 8km easy (6:15-6:35/km) + 6km at race pace (5:35-5:40/km)",
+    "title": "Long Run",
+    "distance": "16km",
+    "description": "16km progression: 9km easy (6:15-6:35/km) + 7km at race pace (5:35-5:40/km)",
     "details": "Most important workout. Final 6km should feel controlled at race pace."
   },
   "2025-09-15": {
@@ -132,8 +132,8 @@
   "2025-09-21": {
     "type": "long",
     "title": "Long Run",
-    "distance": "16km",
-    "description": "5km easy + 8km steady (5:50-6:10/km) + 3km easy cool-down",
+    "distance": "18km",
+    "description": "5km easy + 10km race pace (5:35-5:40/km) + 3km easy cool-down",
     "details": "Steady aerobic effort. Slightly easier than race pace."
   },
   "2025-09-22": {
@@ -177,8 +177,8 @@
   "2025-09-28": {
     "type": "long",
     "title": "Race Simulation",
-    "distance": "18km",
-    "description": "3km easy + 12km at race pace (5:35-5:40/km) + 3km easy cool-down",
+    "distance": "20km",
+    "description": "3km easy + 14km at race pace (5:35-5:40/km) + 3km easy cool-down",
     "details": "Key confidence builder. 12km block should feel controlled and strong."
   },
   "2025-09-29": {
